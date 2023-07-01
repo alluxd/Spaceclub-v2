@@ -70,6 +70,21 @@ main article {
     text-align: center;
 }
 
+.pages h1 {
+    color: white;
+    text-align: left;
+}
+
+.pages a {
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+    text-align: left;
+}
+
+.pages a:hover {
+    text-decoration: underline;
+}
 
 @media screen and (max-width: 943px) {
     .header img {

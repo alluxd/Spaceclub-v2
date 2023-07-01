@@ -39,7 +39,7 @@ main h1 {
 
 .news img:hover {
     opacity: 56%;
-   border: 2px dashed rgb(0, 255, 255);
+    top: 4px
 } 
 
 

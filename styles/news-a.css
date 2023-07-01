@@ -5,7 +5,7 @@ a {
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
-     background-color: rgb(26, 26, 26);
+    background-color: rgb(26, 26, 26);
     overflow-x: hidden;
     box-sizing: border-box;
 }
@@ -19,5 +19,70 @@ a {
     display: block;
     margin-left: auto;
     margin-right: auto;
+
+}
+
+main h2 {
+    color: white;
+    margin-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main h2 span {
+    color: rgb(12, 238, 5);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main h4 {
+    color: white;
+    margin-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main article p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 12px;
+    font-size: 18px;
+
+}
+
+main article p::first-line {
+    font-weight: bold;
+
+}
+
+main article p span {
+    color: greenyellow;
+    font-weight: bold;
+}
+main article h1 {
+    color: white;
+    margin-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main img {
+    width: 60%;
+
+}
+
+.wall1 img {
+    width: 60%;
+    margin-left: 12px;
+}
+
+@media screen and (max-width: 943px) {
+    .header img {
+        width: 70%
+    }
+
+    main img {
+        width: 100%
+    }
+
+    .wall1 img {
+        width: 90%
+    }
 
 }
