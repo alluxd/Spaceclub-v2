@@ -10,6 +10,8 @@ A website project, currently a work in progress.
 
 > 🌐 Switch to React
 
+🔗 [Home](https://alluxd.github.io/Spaceclub-v2)
+🔗 [News](https://alluxd.github.io/Spaceclub-v2/pages/news.html)
 
 # Credits
 [AlluXD (Owner) ](https://github.com/@alluxd)
