@@ -17,3 +17,7 @@ A website project, currently a work in progress.
 [AlluXD (Owner) ](https://github.com/@alluxd)
 
 [Images from Google (News) ](https://google.com/images)
+
+
+NOTE: You're allowed to make your own ws with this repository, but you need to credit me atleast :D
+For more info read the 'LICENSE' file.
