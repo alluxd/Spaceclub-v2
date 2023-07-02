@@ -59,6 +59,21 @@ main h1 {
     color: rgb(41, 226, 97);
 }
 
+footer {
+    color: white;
+    text-align: center;
+    background-color: rgb(12, 12, 12);
+    padding: 25px;
+    margin-top: 15%
+}
+
+footer a {
+    background-color: transparent;
+    color: white;
+    text-decoration: none;
+    font-weight: lighter;
+}
+
 @media screen and (max-width: 943px) {
     .header img {
         width: 70%
