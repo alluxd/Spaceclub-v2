@@ -16,7 +16,8 @@ A website project, currently a work in progress.
 # Credits
 [AlluXD (Owner) ](https://github.com/@alluxd)
 
-[Images from Google (News) ](https://google.com/images)
+[Images from Unsplash (News) ](https://unsplash.com)
+More info about the wallpapers are in the news page. :D
 
 
 NOTE: You're allowed to make your own ws with this repository, but you need to credit me atleast :D
